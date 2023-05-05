@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<students>
+    <student>
+        <id>1</id>
+        <name>Thuốc đau bụng</name>
+        <price>20000</price>
+        <infomation>Ha Noi</infomation>
+        <quantity>10</quantity>
+        <time>2023-04-23</time>
+        <checkclass>0</checkclass>
+    </student>
+    <student>
+        <id>2</id>
+        <name>Thuốc đau đầu</name>
+        <price>15000</price>
+        <infomation>Hai Phong</infomation>
+        <quantity>25</quantity>
+        <time>2023-04-18</time>
+        <checkclass>0</checkclass>
+    </student>
+    <student>
+        <id>4</id>
+        <name>Thuốc vitamin B</name>
+        <price>15000</price>
+        <infomation>Vung Tau</infomation>
+        <quantity>60</quantity>
+        <time>2023-05-03</time>
+        <checkclass>0</checkclass>
+    </student>
+    <student>
+        <id>3</id>
+        <name>Bình Oxi</name>
+        <price>1000000</price>
+        <infomation>Ho Chi Minh</infomation>
+        <quantity>150</quantity>
+        <time>2023-05-04</time>
+        <checkclass>1</checkclass>
+    </student>
+    <student>
+        <id>5</id>
+        <name>Dao y tế</name>
+        <price>75000</price>
+        <infomation>Ha Noi</infomation>
+        <quantity>110</quantity>
+        <time>2023-05-04</time>
+        <checkclass>1</checkclass>
+    </student>
+    <student>
+        <id>6</id>
+        <name>Khẩu trang</name>
+        <price>50000</price>
+        <infomation>Nha Trang</infomation>
+        <quantity>50</quantity>
+        <time>2023-05-05</time>
+        <checkclass>1</checkclass>
+    </student>
+    <student>
+        <id>7</id>
+        <name>Thuốc vitamin A</name>
+        <price>18000</price>
+        <infomation>Hoa Binh</infomation>
+        <quantity>80</quantity>
+        <time>2023-05-05</time>
+        <checkclass>0</checkclass>
+    </student>
+</students>
